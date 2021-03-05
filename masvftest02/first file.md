@@ -12,3 +12,7 @@ what were the steps?
     let's see what happens
 	
 	
+9. very confused by using GIthub Desktop for cloning and I get newrepo/newrepo and the git stuff split between two directories.
+    Nota Bene: cloning always makes the repo directory. Sigh.
+10. So we will save this file somewhere and start over again. Maybe rest first?
+
