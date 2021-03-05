@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+.trash/
+
+# Obsidian.md
+.obsidian/workspace
+!.obsidian/README.md
