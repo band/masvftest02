@@ -13,6 +13,9 @@ what were the steps?
 	
 	
 9. very confused by using GIthub Desktop for cloning and I get newrepo/newrepo and the git stuff split between two directories.
-    Nota Bene: cloning always makes the repo directory. Sigh.
+    Nota Bene: cloning always makes the repo directory.
+	But my confusion was about assigning the vault name.
+	For sensible setup when asked for the vault name provide a functional folder name, such as "notes", or "documents", or ....
+	Then when opening the vault in Obsidian choose that folder name to open, since that is the directory where the content to be shared is stored.
 10. So we will save this file somewhere and start over again. Maybe rest first?
 
